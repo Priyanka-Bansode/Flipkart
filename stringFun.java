@@ -1,0 +1,2 @@
+Having string functions
+
